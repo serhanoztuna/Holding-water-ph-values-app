@@ -1,0 +1,16 @@
+G:\dersler\NDP\Hafta102B\Sise\Sise\bin\Debug\Sise.exe.config
+G:\dersler\NDP\Hafta102B\Sise\Sise\bin\Debug\Sise.exe
+G:\dersler\NDP\Hafta102B\Sise\Sise\bin\Debug\Sise.pdb
+G:\dersler\NDP\Hafta102B\Sise\Sise\obj\Debug\Sise.csprojResolveAssemblyReference.cache
+G:\dersler\NDP\Hafta102B\Sise\Sise\obj\Debug\Sise.exe
+G:\dersler\NDP\Hafta102B\Sise\Sise\obj\Debug\Sise.pdb
+C:\Users\serhan\Downloads\Sise\Sise\Sise\bin\Debug\Sise.exe.config
+C:\Users\serhan\Downloads\Sise\Sise\Sise\obj\Debug\Sise.exe
+C:\Users\serhan\Downloads\Sise\Sise\Sise\obj\Debug\Sise.pdb
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\bin\Debug\Sise.exe.config
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\bin\Debug\Sise.exe
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\bin\Debug\Sise.pdb
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\obj\Debug\Sise.csprojAssemblyReference.cache
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\obj\Debug\Sise.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\obj\Debug\Sise.exe
+C:\Users\Serhan\Desktop\HDD\dersler\ndp\3\Sise\Sise\Sise\obj\Debug\Sise.pdb
